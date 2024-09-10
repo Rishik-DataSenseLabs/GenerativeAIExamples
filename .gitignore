@@ -10,7 +10,6 @@ RAG/examples/**/volumes
 uploaded_files/
 
 # Visual Studio Code
-.vscode
 
 # Node modules
 **/node_modules
@@ -29,3 +28,7 @@ RAG/examples/simple-rag-api-catalog.yaml
 RAG/notebooks/langchain/.ipynb_checkpoints
 RAG/notebooks/langchain/data/nv_embedding
 RAG/notebooks/langchain/data/save_embedding
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
