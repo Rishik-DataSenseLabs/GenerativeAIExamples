@@ -17,5 +17,5 @@ langchain-nvidia-ai-endpoints==0.0.12
 langchain-nvidia-trt==0.0.1rc0
 nemollm==0.3.4
 opentelemetry-sdk==1.21.0
-opentelemetry-api==1.21.0
+opentelemetry-api==1.45.1
 opentelemetry-exporter-otlp-proto-grpc==1.21.0
